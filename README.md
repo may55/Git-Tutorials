@@ -15,6 +15,6 @@
    git config --global user.name "unname" 
    ```
  - To set the proxy<br/>
-   `git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080` 
+   `git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080` <br/>
    To unset the proxy<br/>
    `git config --global --unset http.proxy`
