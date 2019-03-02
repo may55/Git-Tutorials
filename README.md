@@ -7,9 +7,9 @@
    git commit -m "message"
    git push --all
    ```
- - To push the work to master
+ - To push the work to master<br/>
   `git push origin mayank:master` 
- - To change the branch
+ - To change the branch<br/>
   `git checkout <branch_name>` 
  - To set the username of github<br/>
    ```
