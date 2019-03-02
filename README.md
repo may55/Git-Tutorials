@@ -6,9 +6,11 @@
    git add .
    git commit -m "message"
    git push --all
-   ``` 
- - `git push mayank:master` To push the work to master
- - `git checkout <branch_name>` To change the branch
+   ```
+ - To push the work to master
+  `git push origin mayank:master` 
+ - To change the branch
+  `git checkout <branch_name>` 
  - To set the username of github<br/>
    ```
    git config --global user.email "email@email.com" 
