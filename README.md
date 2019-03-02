@@ -22,5 +22,5 @@
    `git config --global --unset http.proxy`
 
  - To handle the conflicts<br/>
-   `git checkout --thiers .`
+   `git checkout --thiers .`<br/>
    `git checkout --ours .`
