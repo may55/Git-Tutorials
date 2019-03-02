@@ -13,8 +13,8 @@
    git push --all
    ```
  - To push the work to master<br/>
-   `git push`<br\>
-   `git push origin <branch>` <br\>
+   `git push`<br/>
+   `git push origin <branch>` <br/>
    `git push origin mayank:master` 
 
  - To change the branch<br/>
