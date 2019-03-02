@@ -18,3 +18,7 @@
    `git config --global http.proxy http://proxyuser:proxypwd@proxy.server.com:8080` <br/>
    To unset the proxy<br/>
    `git config --global --unset http.proxy`
+
+ - To handle the conflicts<br/>
+   `git checkout --thiers .`
+   `git checkout --ours .`
