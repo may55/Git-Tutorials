@@ -32,3 +32,6 @@
  - To handle the conflicts<br/>
    `git checkout --thiers .`<br/>
    `git checkout --ours .`
+ 
+ - To add user credentials
+   `git config --global credential.https://github.com.username <your_username>`
