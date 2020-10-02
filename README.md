@@ -48,3 +48,5 @@
    git pull <url> master --allow-unrelated-histories
    git push --set-upstream origin master  
    ```
+- To check status of working tree<br/>
+   `git status`
