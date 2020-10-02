@@ -35,3 +35,16 @@
  
  - To add user credentials
    `git config --global credential.https://github.com.username <your_username>`
+
+- To make an existing directory a git repo<br/>
+   `git init`
+
+ - To host an existing directory on GitHub<br/>
+   ```
+   git init
+   git add -A
+   git commit -m''
+   git remote add original <url>
+   git pull <url> master --allow-unrelated-histories
+   git push --set-upstream origin master  
+   ```
